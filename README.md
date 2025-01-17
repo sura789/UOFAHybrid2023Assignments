@@ -1,6 +1,6 @@
 ---
 
-# UNIVERISTY OF ARIZONA (1st Year) 2023 Assignments
+# University Of Arizona (1st Year) 2023 Assignments
 
 This repository showcases my academic projects and assignments completed during my Master's in Information Science (Specialization in Machine Learning) from March 2023 to December 2023 during my 1st Year (Spring, Summer and Fall Semesters). These projects reflect my expertise in **Data Science**, **Machine Learning**, **NLP**, **Data Warehousing**, and **Cloud Computing**.
 
