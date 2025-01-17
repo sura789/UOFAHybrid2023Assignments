@@ -1,8 +1,8 @@
 ---
 
-# Surajit Pal - Portfolio Repository
+# UNIVERISTY OF ARIZONA (1st Year) 2023 Assignments
 
-This repository showcases my academic projects and assignments completed during my Master's in Information Science (Specialization in Machine Learning) from March 2023 to February 2025. These projects reflect my expertise in **Data Science**, **Machine Learning**, **NLP**, **Data Warehousing**, and **Cloud Computing**.
+This repository showcases my academic projects and assignments completed during my Master's in Information Science (Specialization in Machine Learning) from March 2023 to December 2023 during my 1st Year (Spring, Summer and Fall Semesters). These projects reflect my expertise in **Data Science**, **Machine Learning**, **NLP**, **Data Warehousing**, and **Cloud Computing**.
 
 [View My Verified Certificate](https://www.mygreatlearning.com/eportfolio/surajit-pal2)
 
@@ -152,7 +152,7 @@ This repository showcases my academic projects and assignments completed during 
 
 Feel free to connect or reach out for collaborations and opportunities:
 
-- **Email**: [surajit@example.com](mailto:surajit@example.com)
+- **Email**: [surajitpal21@gmail.com](mailto:surajit@example.com)
 - **LinkedIn**: [Surajit Pal](https://www.linkedin.com/in/surajitpal21)
 
 ---
