@@ -1,0 +1,146 @@
+Company Name,Job ID,Location of Company,Position Title Available,Locations Of Roles,Type Of Postions,Key Skills Required,Min Salary Per Year,Max Salary Per Year,Min Estimated Salary Per Year,Max Estimated Salary Per Year,Latitude,Longitude
+ASML,4d35291451578abe,"Wilton, CT 06897",Senior Quality Engineer,Wilton,Full-time,"Especially, deep data analysis using excel and its macros.
+Must be able to read and interpret data, information, and documents.",109450.07,169706.37,90000.0,114000.0,47.5034,-95.001117
+SAGE Therapeutics,d6c3170f3de22d04,Remote,"Associate Director, Statistical Programming",Remote,Full-time,"MS in statistics, computer science, mathematics, engineering, or life science with 12+ years of programming experience in the pharmaceutical industry, or BS in…",150923.0,207519.0,89070.97,112764.52,43.0059455,-123.8925908
+Titan America,0e1eb19bab29e340,"Roanoke, VA 24019",Data Engineer,Roanoke,Full-time,"Understanding of data modeling, data integration and data quality processes.
+Document data pipeline processes, data dictionaries, and data storage solutions.",75000.0,85000.0,89070.97,112764.52,37.270973,-79.9414313
+ASML,68c6ca7394e6990f,"Wilton, CT 06897",Business Intelligence Analyst (BIA),Wilton,Full-time,"Familiar with data governance principles, enterprise data modeling, and data management practices.
+Working knowledge of data science, data mining, OLAP…",109450.07,169706.37,109000.0,138000.0,47.5034,-95.001117
+Cloudious,a4e11c823027a8a2,"Mansfield, OH",DATA ARCHITECT ( Chat GPT ),Mansfield,Contract,"Stand-up/train/refine our ml models from existing data.
+Nice to have skills - AIA-Data Profiling.
+Design and define prompts for “Chatgpt” for ad-hoc use cases…",187200.0,169706.37,89070.97,112764.52,40.75839,-82.5154471
+Kraft Heinz Company,3a12137b833bed26,Illinois,Data Scientist,Illinois,Full-time,Target Total Cash: Target total cash represents this role's annualized cash earning potential at target (base salary + target bonus).,83400.0,104200.0,89070.97,112764.52,40.0796606,-89.4337288
+Sappi,79815f192ec34e67,"Skowhegan, ME 04976",Digital Data Scientist,Skowhegan,Full-time,"Ensure optimal utilization of technology solutions, keeping pace with innovations in data science capabilities.
+5-8 years’ experience in Data Science.",109450.07,169706.37,96300.0,122000.0,44.765262,-69.719238
+FameArch,83007433948c651b,Remote,Clinical Data Scientist,Remote,Contract,"Prepare manual of procedures for data collection and data analyses.
+Master’s degree in data science or equivalent experience that includes Statistics,…",93600.0,104000.0,89070.97,112764.52,43.0059455,-123.8925908
+Ford Motor Company,1437c9120d7a91c2,"Dearborn, MI",Data Specialist,Dearborn,Full-time,"4+ years of experience in data visualization, data analysis, and data profiling activities.
+Assist with analyzing corporate survey data and create data…",109450.07,169706.37,71000.0,90000.0,42.3222599,-83.1763145
+Nagarro,72c5ade962bcbb1e,"Philadelphia, PA","Associate Staff Engineer, Data Science",Philadelphia,Full-time,"Company Description We're Nagarro. We are a digital product engineering company that is scaling in a big way! We build products, services, and experiences…",109450.07,169706.37,83200.0,105000.0,39.9527237,-75.1635262
+"Savannah River Nuclear Solutions, LLC",e87ad6c3f31cb68c,"Aiken, SC 29801",Data Analyst in Human Resources,Aiken,Full-time,"Knowledge of or experience with analyzing large data sets.
+Supporting recruiting processes with data and statistics for trends.",109450.07,169706.37,76100.0,96400.0,33.5723191,-81.6182086
+Entegee,93ebb2f8a8cae408,"Gaithersburg, MD",Data Analytics Sr. Developer,Gaithersburg,Contract,"Display expert level skills in ETL framework, database architecture, data warehousing, data modelling, data mining and SQL or PL/SQL queries*.",114400.0,124800.0,89070.97,112764.52,39.1399187,-77.1929215
+Appen,85f57473c28f20a1,Remote,Data Science Expert - AI Model Training,Remote,Full-time,"You're role will involve working on a range of projects to train generative AI models.
+Evaluation and ranking of responses based on accuracy, relevance and…",62400.0,187200.0,89070.97,112764.52,43.0059455,-123.8925908
+The Flatiron School,e62374cb2412bfd6,"New York, NY 10004","Fixed Term Instructor, Data Science",New York,Contract,"2+ years of practitioner experience as a data scientist, data analyst or data engineer.
+Instructors need to be comfortable guiding students through applied and…",140000.0,150000.0,89070.97,112764.52,40.7127281,-74.0060152
+The Hartford,ed622d1c12d720bb,"Charlotte, NC",Junior Data Scientist - Telematics (REMOTE),Charlotte,Full-time,"Demonstrated knowledge of SQL and the python data science stack.
+This position requires basic knowledge of statistical or probabilistic modeling, data…",109450.07,169706.37,89070.97,112764.52,35.2272086,-80.8430827
+Aequor Technologies,0c12850defa8dec2,"King of Prussia, PA",Senior Biostatistician,King of Prussia,Full-time,"Knowledge of clinical data and real-world data source (e.g., healthcare administrative data, electronic health records, disease/patient registries, and related…",150000.0,170000.0,89070.97,112764.52,40.09476245,-75.3851333563417
+FameArch,83007433948c651b,Remote,Clinical Data Scientist,Remote,Contract,"Prepare manual of procedures for data collection and data analyses.
+Master’s degree in data science or equivalent experience that includes Statistics,…",93600.0,104000.0,89070.97,112764.52,43.0059455,-123.8925908
+Ford Motor Company,1437c9120d7a91c2,"Dearborn, MI",Data Specialist,Dearborn,Full-time,"4+ years of experience in data visualization, data analysis, and data profiling activities.
+Assist with analyzing corporate survey data and create data…",109450.07,169706.37,71000.0,90000.0,42.3222599,-83.1763145
+Bristol Myers Squibb,36087bf2a3c46f36,"Princeton, NJ","Manager, Commercialization IT Data Capabilities, Alignment Strategy & Operations",Princeton,Full-time,Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.,109450.07,169706.37,89070.97,112764.52,40.3492744,-74.6592958
+Nagarro,72c5ade962bcbb1e,"Philadelphia, PA","Associate Staff Engineer, Data Science",Philadelphia,Full-time,"Company Description We're Nagarro. We are a digital product engineering company that is scaling in a big way! We build products, services, and experiences…",109450.07,169706.37,83200.0,105000.0,39.9527237,-75.1635262
+"Savannah River Nuclear Solutions, LLC",e87ad6c3f31cb68c,"Aiken, SC 29801",Data Analyst in Human Resources,Aiken,Full-time,"Knowledge of or experience with analyzing large data sets.
+Supporting recruiting processes with data and statistics for trends.",109450.07,169706.37,76100.0,96400.0,33.5723191,-81.6182086
+The Hartford,ed622d1c12d720bb,"Charlotte, NC",Junior Data Scientist - Telematics (REMOTE),Charlotte,Full-time,"Demonstrated knowledge of SQL and the python data science stack.
+This position requires basic knowledge of statistical or probabilistic modeling, data…",109450.07,169706.37,89070.97,112764.52,35.2272086,-80.8430827
+Appen,85f57473c28f20a1,Remote,Data Science Expert - AI Model Training,Remote,Full-time,"You're role will involve working on a range of projects to train generative AI models.
+Evaluation and ranking of responses based on accuracy, relevance and…",62400.0,187200.0,89070.97,112764.52,43.0059455,-123.8925908
+The Flatiron School,e62374cb2412bfd6,"New York, NY 10004","Fixed Term Instructor, Data Science",New York,Contract,"2+ years of practitioner experience as a data scientist, data analyst or data engineer.
+Instructors need to be comfortable guiding students through applied and…",140000.0,150000.0,89070.97,112764.52,40.7127281,-74.0060152
+GoFundMe,0241ebc024230d6f,"San Diego, CA","VP, Data",San Diego,Full-time,"Proven track record in building and managing high-performing data science, data engineering and analytics teams.
+401(k) retirement plan with company matching.",109450.07,169706.37,117000.0,148000.0,32.7174202,-117.1627728
+Ford Motor Company,2b5300452db20c01,"Dearborn, MI",Head of Data Science,Dearborn,Full-time,"Ability to turn transactional systems data into business action and understand how to measure it.
+& leaders work in a Product Management Delivery model working…",109450.07,169706.37,115000.0,146000.0,42.3222599,-83.1763145
+Toyota,a5e1873b1ad85dcd,"Plano, TX 75024",Data Scientist,Plano,Full-time,"The primary responsibility of this role is to build scalable data science solutions using customer and marketing data, help build customer/individual level of…",109450.07,169706.37,105000.0,133000.0,33.0136764,-96.6925096
+PayPal,c0f9349195d6df9e,California,SrDirector Checkout Product Data Science,California,Full-time,"Mastery in analyzing product data (complex and multi-dimensional data sets).
+The ideal candidate will have strong executive presence with a proven track record…",144800.0,319000.0,89070.97,112764.52,36.7014631,-118.755997
+CareFirst BlueCross BlueShield,ae928504a174bcff,"Baltimore, MD 21224",Data Analyst (Remote),Baltimore,Full-time,"Research and analyze data flow across data ecosystem including operational and analytical data platforms.
+Experience: 3 years of data analysis or relevant work…",109450.07,169706.37,78900.0,99900.0,39.2908816,-76.610759
+Nagarro,788aecc737c8b89d,"New York, NY 10121","Staff Engineer, Data Science",New York,Full-time,"Company Description We're Nagarro. We are a digital product engineering company that is scaling in a big way! We build products, services, and experiences…",109450.07,169706.37,142000.0,180000.0,40.7127281,-74.0060152
+TikTok,ea2bf81d89f746f0,"Seattle, WA",Data Analyst - Tiktok Ads,Seattle,Full-time,"Expert experience pulling large and complex data using SQL and writing data pipelines.
+Work closely with key cross functional teams such as product managers,…",114000.0,209000.0,89070.97,112764.52,47.6038321,-122.330062
+Tesla Government,ea8f58ac0868d859,"Falls Church, VA 22043",Data Analyst,Falls Church,Full-time,"Integrate data across multiple platforms or environments.
+Knowledge of data visualization tools, such as Tableau.",109450.07,169706.37,86000.0,109000.0,38.882334,-77.1710914
+Citizens,93afd3873de62717,"Boston, MA",Data Scientist,Boston,Full-time,"Some job boards have started using jobseeker-reported data to estimate salary ranges for roles.
+We are seeking a Data Scientist to assist on multiple projects…",109450.07,169706.37,71500.0,90500.0,42.3554334,-71.060511
+Sticker Mule,d474e9aacf32c393,Remote,AI engineer,Remote,Full-time,"Varied, interesting technical challenges to solve.
+Train new models for upcoming projects.
+4 weeks vacation (+ holidays based on your country of residence).",49275.0,169706.37,89070.97,112764.52,43.0059455,-123.8925908
+Sephora,ce27ff806856de27,"San Francisco, CA 94105","Manager, CRM Data Science Analytics",San Francisco,Full-time,"Build data-driven customer segments.
+Close loop on business use case performance and drive data optimizations in research and ML models.",179878.0,180878.0,89070.97,112764.52,37.7790262,-122.419906
+Health GPT,696a4b20fe325f02,"Palo Alto, CA",Data Analyst - Data cleaning,Palo Alto,Full-time,"Implement data cleansing techniques to process large batches of data efficiently.
+Develop data cleaning scripts using SQL and other programming languages to…",100000.0,150000.0,89070.97,112764.52,37.4443293,-122.1598465
+Ford Motor Company,ea24a837330ade0f,"Dearborn, MI 48124",Data Scientist - Supply Chain Analytics,Dearborn,Full-time,"Experience doing research, analysis, data science or solution development.
+Ability to extract actionable insights from data.
+Advanced degree in a related field.",109450.07,169706.37,47800.0,60500.0,42.3222599,-83.1763145
+Old Dominion University,c2560271889c9e79,"Norfolk, VA 23529",Data Scientist,Norfolk,Full-time,"Perform data mining with proven practices.
+Enhance data collection procedures to include information that is relevant for building analytic systems.",82688.0,82688.0,89070.97,112764.52,52.666667,1.0
+Zoox,4006c67c88292432,"Foster City, CA",Data Engineer,Foster City,Full-time,"Establishing robust data integrity monitoring so that company-wide metrics are based on accurate data.
+Advanced SQL and data warehousing experience.",143000.0,300000.0,89070.97,112764.52,37.5600336,-122.2688522
+Nagarro,acafd905b47aba2e,"San Jose, CA 95110","Associate Principal Engineer, Data Science",San Jose,Full-time,"Company Description We're Nagarro. We are a digital product engineering company that is scaling in a big way! We build products, services, and experiences…",109450.07,169706.37,87500.0,111000.0,37.3361663,-121.890591
+Toyota,a32745314d05805d,"Plano, TX 75024",Principal Data Scientist,Plano,Full-time,Experience partnering with technology peers responsible for data architecture and distributed computing infrastructure/platforms.,109450.07,169706.37,145000.0,184000.0,33.0136764,-96.6925096
+Leidos,99607868c5ad47c7,"Stennis Space Center, MS 39529",Data Scientist,Stennis Space Center,Full-time,Working knowledge and experience with NAVOCEANO data warehouse operations and large bathymetric data workflows.,63050.0,130950.0,89070.97,112764.52,30.3776388,-89.59783120338261
+Electric Power Research Institute,b82aea7c99a6b4ff,"Washington, DC",Energy and Climate Analyst,Washington,Full-time,"Experience with statistical software and/or programming languages for optimization methods and/or data science (e.g., R, Python, GAMS, Matlab) is a plus.",68600.0,92800.0,89070.97,112764.52,38.8950368,-77.0365427
+ByteDance,5c11ef60c4560da0,"Seattle, WA",Data Analyst - Tiktok Ads and Monetization Products,Seattle,Full-time,"Expert experience pulling large and complex data using SQL and writing data pipelines.
+Work closely with key cross functional teams such as operations, product…",114000.0,209000.0,89070.97,112764.52,47.6038321,-122.330062
+The Church of Jesus Christ of Latter-day Saints,862d1ddee2baa985,"Salt Lake City, UT 84103",Data Analyst - BYU-Pathway Worldwide,Salt Lake City,Full-time,"Understand data structures and data engineering.
+Education : This position requires a bachelor's degree in data science, educational assessment, statistics, the…",109450.07,169706.37,65400.00000000001,82900.0,40.7596198,-111.886797
+FedEx Services,df52e55cdbac8ce7,"Plano, TX",Data Science Advisor-Marketing,Plano,Full-time,"Master's degree in data science, analytics, business, mathematics, economics, computer science or other quantitative fields such as engineering/operations…",96108.0,197124.0,89070.97,112764.52,33.0136764,-96.6925096
+GE Healthcare,a1065d60452be69c,"San Ramon, CA 94583","Director of AI, Foundation Models",San Ramon,Full-time,"Experience with high-dimensional imaging data and waveform/time-series data.
+6+ years of working experience as a data scientist.",230000.0,430000.0,89070.97,112764.52,41.7253374,1.363189
+Mayo Clinic,c55f31ed0d9de9e9,"Rochester, MN 55905",Data Science Analyst - Radiology,Rochester,Full-time,"Has expertise in the data science methods used to analyze data, and knowledge of data types, topics, and scientific challenges and approaches.",92456.0,138673.0,89070.97,112764.52,43.157285,-77.615214
+Holman,0a4874766dadbe50,"Mount Laurel, NJ",Data Science - Analyst I,Mount Laurel,Full-time,"1+ years’ experience in statistical modeling, machine learning, data mining, and data visualizations.
+Provide analytical expertise (including data mining and…",70000.0,70000.0,89070.97,112764.52,39.934002,-74.8909988
+ByteDance,cb438b1961b06b26,"Mountain View, CA",Data Analyst - Tiktok Ads and Monetization Products,Mountain View,Full-time,"Expert experience pulling large and complex data using SQL and writing data pipelines.
+Work closely with key cross functional teams such as operations, product…",120000.0,220000.0,89070.97,112764.52,37.3893889,-122.0832101
+Blue Cross Blue Shield of Arizona,b2bb508556033cbf,"Phoenix, AZ 85021","Quality Measurement Analyst (Analytics and Data Science, Remote)",Phoenix,Full-time,"Develop and analyze business performance reports (e.g. for claims data, provider data, utilization data) and provide notations of performance deviations and…",109450.07,169706.37,63400.0,80300.0,33.4484367,-112.074141
+The Washington Post,c9ce358e8ae7dccc,"Washington, DC","Data Engineer, Election Platforms (all-levels)",Washington,Full-time,"A desire to work on cutting edge, cross-functional tools to help with features, data science, and machine learning/big data work in a team setting.",109450.07,169706.37,88600.0,112000.0,38.8950368,-77.0365427
+Discover Financial Services,2300c82aefb18726,"Riverwoods, IL 60015",Senior Data Science Analyst (multiple openings) - IHM,Riverwoods,Full-time,Position required skills: Two (2) years of experience in the job offered or related occupation: utilizing Agile Software development methodology to identify and…,109450.07,169706.37,74100.0,93900.0,42.1676068,-87.8970986
+Kaiser Permanente,bc3e8ca6e8088d22,"Downey, CA",Data Scientist III Data Science,Downey,Full-time,Prepares data for analytic efforts by consolidating data; reviewing data for quality and accuracy; profiling data inaccuracies; and cleaning and creating final…,122800.0,158950.0,89070.97,112764.52,33.9404441,-118.1292846
+"Health Services Advisory Group, Inc.",9c4ae69831b972b7,Arizona,Analyst I,Arizona,Full-time,"Analysts may work with a wide array of data to facilitate data exploration, including (but not limited to) the following data types:",70000.0,75000.0,89070.97,112764.52,34.395342,-111.763275
+Pacific Northwest National Laboratory,4159edccd07e4dd5,"Richland, WA",Post Doctorate RA - Data Science & Biostats,Richland,Temporary,Apply knowledge of data modeling and high-performance data architectures to develop data handling and processing software using industry-established software…,105240.0,105240.0,89070.97,112764.52,38.7060457,-88.0949352
+Arizona State University,c0b124c49e9ae1f5,"Tempe, AZ",Library Data Scientist,Tempe,Full-time,"Provide individual and or group consultations with students, faculty and staff on data science projects.
+Under the general direction of the Head of the Library…",51500.0,81600.0,89070.97,112764.52,33.4255117,-111.9400164
+University of Washington,b06d12f3ae1f2abf,"Seattle, WA 98195",DATA ANALYST,Seattle,Full-time,"Advanced training in computer or data science, programming or informatics.
+Education in data science, health services research, health policy.",54648.0,95040.0,89070.97,112764.52,47.6038321,-122.330062
+Amex,6644074330ac5e47,"New York, NY",Data Analyst,New York,Full-time,"Python/R for data analysis and/or data automation a plus.
+Work closely with AEO Data Science Manager to review data sets and identify emerging trends, uncover…",55000.0,105000.0,89070.97,112764.52,40.7127281,-74.0060152
+Silver Edge,3efe1068263ecbde,"Chantilly, VA",Data Scientist - All Levels,Chantilly,Full-time,"Familiarity with virtualized data science environment preferred.
+The Data Scientist will act in a consultant capacity for assessments of data science requests.",109450.07,169706.37,110000.0,139000.0,49.1931736,2.4636686
+Oak Ridge National Laboratory,e4f0730c24a62597,"Oak Ridge, TN 37830",Junior Data Scientist,Oak Ridge,Full-time,"Will help with setting up and running data experiments and studies on state-of-the-art algorithms.
+Will investigate new algorithms to solve problem mainly from…",109450.07,169706.37,71600.0,90700.0,36.0103562,-84.2696449
+Tampa Bay Rays,a07ec7ae25a4091a,"Saint Petersburg, FL 33705",Baseball Research and Development--Analyst Opportunities,Saint Petersburg,Full-time,"Experience performing data analysis in the workforce, or relevant academic research.
+Our R&D group helps shape the Baseball Operations decision-making processes…",109450.07,169706.37,89070.97,112764.52,27.7703796,-82.6695085
+Mayo Clinic,5ed38a3b24d42b75,"Rochester, MN 55901",Statistical Programmer (Remote),Rochester,Full-time,"A minimum of a bachelor's degree with a major in statistics, biostatistics, bioinformatics, mathematics, computer science, data science, or quantitative degree…",61131.0,91707.0,89070.97,112764.52,43.157285,-77.615214
+Qualtrics,ba9be98f123c2808,"Seattle, WA 98101",Data Scientist - DICE,Seattle,Full-time,"The data scientist will take on not-well-defined problems, often defined as business questions rather than data science questions.",118000.0,218000.0,89070.97,112764.52,47.6038321,-122.330062
+Discord,f60851cecadd82fd,"San Francisco, CA 94107","Senior Data Scientist, Analytics",San Francisco,Full-time,"If you’re passionate about data, impact, and working on an amazing team, read on and check out our blog about how our team informs strategy & innovation at…",109450.07,169706.37,142000.0,179000.0,37.7790262,-122.419906
+Nagarro,833f1bbfaa1a3fa6,Colorado,"Associate Principal Engineer, Data Science",Colorado,Full-time,"Company Description We're Nagarro. We are a digital product engineering company that is scaling in a big way! We build products, services, and experiences…",109450.07,169706.37,83200.0,105000.0,38.7251776,-105.607716
+Nagarro,8b7b9257ff5de5d2,Colorado,"Associate Principal Engineer, Data Science",Colorado,Full-time,"Company Description We're Nagarro. We are a digital product engineering company that is scaling in a big way! We build products, services, and experiences…",109450.07,169706.37,83200.0,105000.0,38.7251776,-105.607716
+Grinnell College,7042f1afbaa757e4,"Grinnell, IA 50112",Data Scientist,Grinnell,Full-time,"In addition to training numerous student consultants on data competency, this person will collaborate with faculty in designing class activities and data…",109450.07,169706.37,64500.0,81700.0,39.12723,-100.629031
+Barclays,52b2dd1bc0f2ede8,"Whippany, NJ 07981",Data Engineer,Whippany,Full-time,Being responsible for full life cycle development and design of new data science platform with Python and AWS based applications and components.,109450.07,169706.37,115000.0,146000.0,40.8245442,-74.4170972
+Stitch Fix,9c7558dba19cc878,Remote,Data Scientist,Remote,Full-time,"Have 6+ years of applied data science experience, e.g. not just fitting a model but being held accountable for creating business value.",181000.0,262000.0,89070.97,112764.52,43.0059455,-123.8925908
+Hopper,9a1d877f966ac958,"Los Angeles, CA",Data Scientist - Pricing & Analytics (100% Remote),Los Angeles,Full-time,"Leveraging data to solve customer problems is in Hopper’s DNA.
+Find new opportunities for revenue growth by becoming the expert on our data and customers.",109450.07,169706.37,48600.0,61500.0,34.0536909,-118.242766
+Duolingo,9464b80f4a91e4a7,"New York, NY",Head of Data Science,New York,Full-time,"As the data science leader, you'll shape how 'all things' data and data science contribute to Duolingo's strategy.
+Experience with analyzing large datasets.",218500.0,362300.0,89070.97,112764.52,40.7127281,-74.0060152
+Sheetz,39b9f76a7064f3a2,"Pittsburgh, PA 15206","Data Analyst I - Pittsburgh, PA",Pittsburgh,Full-time,Supports Sheetz’ data and information strategy through data analysis and visualization in order to facilitate and enhance organizational decision-making and…,109450.07,169706.37,89070.97,112764.52,40.4416941,-79.9900861
+Tencent,62a948b654d472e1,"Palo Alto, CA 94306",Data Scientist,Palo Alto,Full-time,"1.Join a highly skilled data science team to mine through data to identify data-driven opportunities in game production, publishing and live-ops.",81400.0,179300.0,89070.97,112764.52,37.4443293,-122.1598465
+Lowe's,6530057532dd7e26,"Charlotte, NC 28203",Senior Data Analyst - Stores Technology,Charlotte,Full-time,"The candidate must have a deep understanding of analytical techniques, data validation techniques and disparate data sources.",72800.0,170000.0,89070.97,112764.52,35.2272086,-80.8430827
+Harvest NYC,958ff5791d1b8d76,Remote,Senior Data Analyst,Remote,Full-time,Synthesize data from a variety of sources to develop and present reporting and data visualizations that drive understanding and inform action for Harvesters at…,165000.0,165000.0,89070.97,112764.52,43.0059455,-123.8925908
+UnitedHealth Group,e4597991006666e7,"Atlanta, GA 30319",Sr Provider Data Analyst - Remote,Atlanta,Full-time,"Identify potential data or process gaps.
+Primary duties are performing audits to assess the accuracy of provider demographic data, contractual data, and…",56305.6,110406.4,89070.97,112764.52,33.7489924,-84.3902644
+Molex,9009f31558b6378b,"Caldwell, ID 83605",Data Scientist,Caldwell,Full-time,"Create databases to store and maintain data.
+Create new programs as needed to gather data.
+Program and compile data programs or solutions to production related…",109450.07,169706.37,89070.97,112764.52,29.8298971,-97.5959641
+Discord,42af71209a9484ab,"San Francisco, CA 94107","Data Scientist, Machine learning",San Francisco,Full-time,"What you'll be doing Apply state-of-the-art machine learning techniques to provide a deeper understanding of users, communities, and our product Build…",109450.07,169706.37,89070.97,112764.52,37.7790262,-122.419906
+TikTok,1ba83f797065a8c6,"Mountain View, CA",Data Analyst - Tiktok Ads,Mountain View,Full-time,"Expert experience pulling large and complex data using SQL and writing data pipelines.
+Work closely with key cross functional teams such as product managers,…",120000.0,253000.0,89070.97,112764.52,37.3893889,-122.0832101
+FedEx Services,67164a7123c9b64c,"Brookfield, WI",Data Science Advisor-Marketing,Brookfield,Full-time,"Master's degree in data science, analytics, business, mathematics, economics, computer science or other quantitative fields such as engineering/operations…",96108.0,197124.0,89070.97,112764.52,41.8228378,-87.848085
+Russell Investments,4d8658b67f417730,"Seattle, WA 98101",Data Governance and Commission Analyst,Seattle,Full-time,"Support projects that impact data migration and data governance.
+Implements solutions to improve data quality for all data domains.",70000.0,80000.0,89070.97,112764.52,47.6038321,-122.330062
+Capgemini,b59921b5144862db,"Malvern, PA",Data Analyst,Malvern,Contract,Ability to take requirements provided in addition to data available to create reoccurring reports and dashboards.,109450.07,169706.37,89070.97,112764.52,52.1159559,-2.3258985
+North Carolina State University,99b96a1e55265c84,"Raleigh, NC",Data Science Education Postdoctoral Scholar,Raleigh,Full-time,Position Information Posting Number PG190951PD Position Number 00109774 Position Type Post Doc FLSA Exempt Departmental Information Department ID 231010 -…,70000.0,70000.0,89070.97,112764.52,35.7803977,-78.6390989
+LTK,d85324a6dadf8417,Remote,Data Engineer,Remote,Full-time,"Senior data engineering leader responsible for building robust, reliable, and usable data pipelines and data sets that are used to fuel LTK’s products,…",109450.07,250000.0,89070.97,112764.52,43.0059455,-123.8925908
+Arrowstreet Capital,ed00c48e1ef19d2f,"Boston, MA",Quantitative Researcher,Boston,Full-time,"Participating in data architecture decision-making to support the Research data platform.
+Experience analyzing large data sets.",109450.07,169706.37,89070.97,112764.52,42.3554334,-71.060511
+Meta,daba31afcfc3c111,Remote,"Data Science Manager, Ads Infrastructure",Remote,Full-time,"This data is used for training ML and for measuring and improving the performance of the system.
+Inspire, lead and grow a team of data scientists and manager(s)…",197000.0,269000.0,89070.97,112764.52,43.0059455,-123.8925908
+US Department of Energy - Agency Wide,a2eb8ebe6b258928,"Idaho Falls, ID",Data Scientist,Idaho Falls,Full-time,"You must have a degree inMathematics, statistics, computer science, data science or field directly related to the position.
+Must be a U.S. Citizen or National.",116393.0,183500.0,89070.97,112764.52,43.4887907,-112.03628
+Hopper,c76c4bb14ae68c95,"New York, NY",Data Scientist - Pricing & Analytics (100% Remote),New York,Full-time,"Leveraging data to solve customer problems is in Hopper’s DNA.
+Find new opportunities for revenue growth by becoming the expert on our data and customers.",150000.0,190000.0,89070.97,112764.52,40.7127281,-74.0060152
+Netflix,5cc9af125259b3e6,"Los Gatos, CA",Machine Learning Scientist (L5) - Globalization,Los Gatos,Full-time,"We are responsible for the translation and cultural adaptation of all aspects of member interaction, including beautiful localized user interfaces, subtitles,…",109450.07,169706.37,89070.97,112764.52,37.226611,-121.9746797
